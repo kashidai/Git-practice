@@ -1,2 +1,2 @@
 # Git-practice
-first commit
+This is just practice
